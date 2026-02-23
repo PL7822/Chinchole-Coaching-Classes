@@ -4,17 +4,17 @@ import topperRahul from "@/assets/ram.png";
 import topperSneha from "@/assets/Akshara.png";
 import topperAmit from "@/assets/Riturani.png";
 import topperPooja from "@/assets/Nivrutti.png";
-import topperRohan from "@/assets/Babasaheb.png";
+import topperRohan from "@/assets/Shruti.png";
 import topperAnjali from "@/assets/kamaji.png";
 import topperVishal from "@/assets/Laiba-zareen.png";
 
 const toppers = [
+  { name: "Shruti Shinde.", pct: 97, year: "2024", stream: "Science", img: topperRohan },
   { name: "lahu Poul", pct: 95, year: "2024",stream: "Science", img: topperPriya },
   { name: "Ram Bhale", pct: 95, year: "2024", stream: "Science", img: topperRahul },
   { name: "Akshara Poul", pct: 94, year: "2024", stream: "Mathematics", img: topperSneha },
   { name: "Riturani karvar", pct: 94, year: "2024", stream: "Overall", img: topperAmit },
   { name: "Nivrutti Hargil", pct: 92, year: "2024", stream: "Overall", img: topperPooja },
-  { name: "Babasaheb J.", pct: 90, year: "2024", stream: "Science", img: topperRohan },
   { name: "Kamaji kure", pct: 92, year: "2024", stream: "Mathematics", img: topperAnjali },
   { name: "Laiba Zareen", pct: 90, year: "2024", stream: "Overall", img: topperVishal },
 ];

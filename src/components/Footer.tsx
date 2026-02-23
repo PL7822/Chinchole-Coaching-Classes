@@ -16,15 +16,9 @@ const Footer = () => (
             <span className="mb-3 font-heading text-lg font-bold text-secondary">
               Chinchole Coaching Classes
             </span>
-            {/* <span className="text-xs text-gray-500">
-              & Shri Abhyasika – Palam
-            </span> */}
-            {/* <br /> */}
           </div>
         </Link>
-        {/* <h3 className="mb-3 font-heading text-lg font-bold text-secondary">
-          Chinchole Coaching Classes
-        </h3> */}
+        
         <p className="text-sm leading-relaxed text-primary-foreground/70">
         <br />
           Empowering students from 6th to 10th standard with quality education and
@@ -68,7 +62,7 @@ const Footer = () => (
           </li>
           <li className="flex items-center gap-2">
             <Mail size={16} className="shrink-0 text-secondary" />
-            info@chincholecoaching.com
+            vgchinchole143@gmail.com
           </li>
           <li className="flex items-center gap-2">
             <Clock size={16} className="shrink-0 text-secondary" />
