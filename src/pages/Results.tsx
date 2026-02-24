@@ -42,7 +42,7 @@ const Results = () => (
       <div className="container mx-auto px-4">
         <div className="mx-auto grid max-w-2xl grid-cols-3 gap-4">
           {[
-            { val: "96%", label: "Highest Score" },
+            { val: "100%", label: "Highest Score" },
             { val: "50+", label: "90+ Achievers" },
             { val: "100%", label: "Pass Rate" },
           ].map((h) => (
