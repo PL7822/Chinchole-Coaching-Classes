@@ -20,7 +20,7 @@ const toppers = [
 ];
 
 const testimonials = [
-  { text: "Chinchole sir's teaching helped me score 96% in boards. The personal attention and doubt sessions were incredibly helpful.", author: "Shruti S., 2024 Batch" },
+  { text: "Chinchole sir's teaching helped me score 100% in boards. The personal attention and doubt sessions were incredibly helpful.", author: "Shruti S., 2024 Batch" },
   { text: "Shri Abhyasika gave me the perfect study environment. I could focus without any distractions. Highly recommended!", author: "lahu P., 2023 Batch" },
   { text: "My son improved from 70% to 92% after joining coaching classes. The faculty is very dedicated and supportive.", author: "Parent of Akshara P." },
 ];
